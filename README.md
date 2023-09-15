@@ -1,9 +1,9 @@
 <div align="center">
 <h1 align="center">
-<img src="https://github.com/alivemachine/Paiper/blob/04/ogthumb.png" />
+<img src="https://github.com/alivemachine/Dibo/blob/main/screenshot.png" />
 <br>dibo
 </h1>
-<h3>◦ Streamline your coding journey with dibo!</h3>
+<h3>◦Your finance companion</h3>
 <h3>◦ Developed with the software and tools listed below.</h3>
 
 <p><img width="100" src="https://alivemachine.io/image/fronthand/openai.png" alt="OpenAI logo" /></p>
@@ -42,7 +42,7 @@
 
 ## 📍 Overview
 
-The project is an HTML document that creates a canvas element for loading and rendering patches created using the cables.gl platform. It provides callbacks for when the patch is initialized and finished loading, and also disables certain mobile device features for a better user experience. The code is released under the MIT License, allowing users to freely use, modify, distribute, and sell the software. Despite encountering a 400 HTTP status exception in the'js/patch.js' file, the overall project aims to offer a valuable tool for easily creating and manipulating visual patches.
+The project is an early HTML prototype that creates a canvas element for loading and rendering a visualization for a market prediction engine. It provides callbacks for when the patch is initialized and finished loading, and also disables certain mobile device features for a better user experience. The code is released under the MIT License, allowing users to freely use, modify, distribute, and sell the software. 
 
 ---
 
@@ -151,6 +151,6 @@ The project maintainers will review your changes and provide feedback or merge t
 ---
 ## 📄 License
 
-This project is licensed under the `ℹ️  INSERT-LICENSE-TYPE` License. See the [LICENSE](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository) file for additional info.
+This project is licensed under the MIT License. See the [LICENSE](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository) file for additional info.
 
 ---
