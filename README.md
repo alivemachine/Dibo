@@ -1,8 +1,10 @@
 <div align="center">
 <h1 align="center">
-<img src="https://github.com/alivemachine/Dibo/blob/main/screenshot.png" />
+
+  
 <br>Dibo
 </h1>
+  <img src="https://github.com/alivemachine/Dibo/blob/main/assets/Screenshot%20(162).png" />
 <h3>◦Your finance companion</h3>
 <h3>◦ Developed with the software and tools listed below.</h3>
 
