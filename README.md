@@ -4,7 +4,7 @@
   
 <br>Dibo
 </h1>
-  <img src="https://github.com/alivemachine/Dibo/blob/main/assets/Screenshot%20(162).png" />
+  <img src="https://github.com/alivemachine/Dibo/blob/main/assets/Screenshot%20(163).png" />
 <h3>◦Your finance companion</h3>
 <h3>◦ Developed with the software and tools listed below.</h3>
 
