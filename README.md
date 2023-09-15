@@ -1,6 +1,8 @@
 <div align="center">
 <h1 align="center">
 <img src="https://github.com/alivemachine/Dibo/blob/main/screenshot.png" />
+  <img src="https://github.com/alivemachine/Dibo/blob/main/assets/Screenshot%20(162).png" />
+  
 <br>Dibo
 </h1>
 <h3>◦Your finance companion</h3>
